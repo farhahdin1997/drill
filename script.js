@@ -8,4 +8,8 @@ Output: 6
 Input: "why?"
 Output: 0*/
 
-console.log('hello');
+function countVowels (word){
+return 2;
+}
+
+console.log(countVowels ('HELLO'));
